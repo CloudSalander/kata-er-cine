@@ -1,5 +1,4 @@
 # kata-er-cine
-# kata-er-cine
 Quarta Kata per l'especialitat FullstackPHP 9-2-23
 
 Se desea crear un sitio web con información referente a las películas en cartel en las salas de un dudoso cine cercano a la plaza de armas.
